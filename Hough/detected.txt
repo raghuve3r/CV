@@ -1,0 +1,10 @@
+6 15 20 20 filled_note B 1.71464e+09
+4 3 20 20 filled_note D 5.96517e+08
+8 14 20 20 eighth_rest _ 1.10252e+09
+4 11 20 20 filled_note C 3.04089e+08
+10 8 20 20 filled_note C 1.72696e+09
+6 8 20 20 quarter_rest _ 2.14517e+09
+10 15 20 20 filled_note D 6.35723e+08
+9 3 20 20 quarter_rest _ 6.28175e+08
+7 9 20 20 filled_note G 1.91454e+09
+10 3 20 20 eighth_rest _ 1.49798e+08
